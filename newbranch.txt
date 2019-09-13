@@ -2,4 +2,6 @@ hello new branch
 
 checking the git pull functionality
 
-merge conflict local testing
+
+merge conflict origin testing
+
